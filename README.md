@@ -45,5 +45,5 @@ This repository contains the solution to the Image Processing Assignment, where 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-processing-assignment.git
+git clone https://github.com/Krishna737Sharma/Image-processing
 cd image-processing-assignment
